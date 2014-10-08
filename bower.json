@@ -2,7 +2,7 @@
   "name": "popover",
   "description": "Creates bootstrap popover with template with controller",
   "authors": [
-  "ClearCode (http://clearcode.cc)",
+  "ClearCode (http://clearcode.cc)"
 ],
   "version": "1.0.0",
   "main": "popovertemplate.js",
