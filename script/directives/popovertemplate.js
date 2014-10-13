@@ -21,7 +21,7 @@
 */
 'use strict';
 
-angular.module('cc.popoverTemplate.directive')
+angular.module('cc.popoverTemplate.directive', [])
     .directive('popoverTemplate', ['utils', '$compile', '$document', '$controller',
         function (utils, $compile, $document, $controller) {
 
