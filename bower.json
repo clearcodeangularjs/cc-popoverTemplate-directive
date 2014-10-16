@@ -1,5 +1,5 @@
 {
-	"name": "popover",
+	"name": "cc-popoverTemplate-directive",
 	"description": "Creates bootstrap popover with template with controller",
 	"authors": [
 		"ClearCode (http://clearcode.cc)"
@@ -17,7 +17,7 @@
 		"angular": "~1.0.6",
 		"jquery": "~1.10.2",
 		"sass-bootstrap": "~3.0.2",
-		"adhesive-utils": "~1.0.0"
+		"cc-misc-service": "clearcodeangularjs/cc-misc-service"
 	},
 	"devDependencies": {
 		"grunt": "^0.4.1",
