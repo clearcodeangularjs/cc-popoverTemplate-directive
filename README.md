@@ -5,7 +5,7 @@ Creates bootstrap popover with template with controller
 
 Installation
 --------------
-TODO
+``` bower install clearcodeangularjs/cc-popoverTemplate-directive --save ```
 
 
 Usage
