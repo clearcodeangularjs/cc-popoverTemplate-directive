@@ -6,7 +6,7 @@
 	],
 	"version": "1.0.0",
 	"homepage": "http://plnkr.co/edit/SGrLlAySVZXT8VTiB8nR?p=preview",
-	"main": "popovertemplate.js",
+	"main": "script/directives/popovertemplate.js",
 	"ignore": [
 		"**/.*",
 		"node_modules",
